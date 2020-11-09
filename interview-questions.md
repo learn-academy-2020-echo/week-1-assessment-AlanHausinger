@@ -78,7 +78,9 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Research and define the following terms to the best of your ability.
 
-- Classes
-- React
-- React State
-- CRUD
+- Classes: a template for creating objects. data and behavior for that dat.
+create a new instance of that class for a new object.
+- React: js library to create we pages. component based.
+- React State: methods in reach can update the state object. there are "lazy"
+components that display data too. smart functions update state.
+- CRUD: Create, read, update, delete. necessary step to step to create persistent storage in an app.

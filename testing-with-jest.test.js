@@ -35,7 +35,7 @@
 
 
 // --------------------2b) See the test fail. THEN write the code to make the test pass.
-// const triangleArea = (base,height) => {
-//   return base * height / 2
-// }
-// console.log(triangleArea(17,5))
+const triangleArea = (base,height) => {
+  return base * height / 2
+}
+console.log(triangleArea(17,5))
