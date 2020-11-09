@@ -4,7 +4,7 @@
 
 // Please read all questions thoroughly
 // Psuedo coding is HIGHLY recommended
-// If you get stuck, please leave comments to help us understand your thought process
+// If you get stuck, please leave comments to help us undestand your thought process
 
 // --------------------1) Create a function that determines if a temperature is below boiling point, at boiling point or above boiling point. Boiling point is 212 degrees Farhenheit.
 // Use the test variables provided below. Expected outcome: "35 is below boiling point", "350 is above boiling point", "212 is at boiling point"
