@@ -12,7 +12,7 @@
 // const addThemUp = (num1,num2) => {
 // Make addthemup a const so it can't change then worry about the numbers
 //   return num1 + num2
-// }
+// } 
 
 
 // --------------------1b) See the test fail. THEN write the code to make the test pass.

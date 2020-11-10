@@ -47,7 +47,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 5. Give a brief description of proper pair programming techniques. What are the roles of each person?
 
   Your answer: Its when one person is writing the code while the other can try to help with useful information
-  and so that two head can take a look at a code and get two different mind trying to figure out the same
+  and so  that two head can take a look at a code and get two different mind trying to figure out the same
   problem.
 
   Researched answer: One is the driver with a switch off when the the pair seem fit. Usually after a few challenges
